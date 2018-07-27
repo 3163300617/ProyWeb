@@ -2,3 +2,23 @@ body{
 	color: orange;
 	background-color:#30C90F;
 }
+.pa1{
+	background-color: #D600CA;
+	color: orange;
+}
+.pa2{
+	background-color: #F8FF0A;
+	color: orange;
+}
+p{
+	background-color: #0216F5;
+	color: red;
+}
+h1{
+	color: green;
+	text-align:center ;
+}
+h2{
+	color: red;
+	text-align:center ;
+}
